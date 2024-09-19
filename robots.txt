@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://estonama.github.io/sitemap.html.gz
+Sitemap: https://estonama.github.io/app/sitemap.html.gz
+Sitemap: https://estonama.github.io/assets/sitemap.html.gz
+Sitemap: https://estonama.github.io/css/sitemap.html.gz
+Sitemap: https://estonama.github.io/data/sitemap.html.gz
+Sitemap: https://estonama.github.io/includes/sitemap.html.gz
+Sitemap: https://estonama.github.io/item/sitemap.html.gz
+Sitemap: https://estonama.github.io/src/sitemap.html.gz
